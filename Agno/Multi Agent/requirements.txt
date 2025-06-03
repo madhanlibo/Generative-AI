@@ -1,0 +1,12 @@
+agno
+google-genai
+python-dotenv
+duckduckgo-search
+pypdf
+lancedb
+tantivy
+streamlit
+pandas
+yfinance
+sqlalchemy
+fastapi[standard]
