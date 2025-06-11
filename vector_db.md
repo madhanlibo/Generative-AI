@@ -1,4 +1,4 @@
-Rewritten version of your FAISS-based semantic search pipeline using **6 different vector databases**:
+Rewritten version of the FAISS-based semantic search pipeline using **6 different vector databases**:
 
 ---
 
