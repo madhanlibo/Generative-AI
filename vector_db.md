@@ -1,6 +1,4 @@
-Here's the full rewritten version of your FAISS-based semantic search pipeline using **6 different vector databases**:
-
-We’ll follow the same 7 steps for each one:
+Rewritten version of your FAISS-based semantic search pipeline using **6 different vector databases**:
 
 ---
 
